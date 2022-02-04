@@ -8,7 +8,16 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "<your_git_repo_url>"
+  },
+  "license": "MIT",
   "author": "HomyeeKing",
+  "bugs": {
+    "url": "<your_git_repo_url>/issues"
+  },
+  "homepage": "<your_git_repo_url>",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "exports": {
@@ -22,7 +31,6 @@
     "test": "vitest run",
     "prepublishOnly": "pnpm run build"
   },
-  "license": "MIT",
   "devDependencies": {
     "@egoist/prettier-config": "1.0.0",
     "prettier": "2.5.1",
