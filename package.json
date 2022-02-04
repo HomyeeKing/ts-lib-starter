@@ -8,6 +8,7 @@
   "files": [
     "dist"
   ],
+  "author": "HomyeeKing",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "exports": {
