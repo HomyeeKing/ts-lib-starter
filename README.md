@@ -5,6 +5,7 @@
 ## Using this template
 
 - Search `my-ts-lib` and replace it with your custom package name.
+- enter `package.json` and replace the `<your_git_repo_url>` with your repo url
 
 Features:
 
