@@ -9,6 +9,7 @@
     "noUnusedLocals": true,
     "noImplicitAny": true,
     "allowJs": true,
+    "outDir": "dist",
     "resolveJsonModule": true
   }
 }
